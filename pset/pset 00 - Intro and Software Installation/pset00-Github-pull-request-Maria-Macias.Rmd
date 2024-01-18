@@ -1,9 +1,10 @@
 ---
 title: "HW 0, Question 9"
-author: "Brian Macdonald"
-date: 'Jan 15, 2024'
+author: "Maria Macias"
+date: 'Jan 17, 2024'
 output: html_document
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
